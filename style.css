@@ -1,0 +1,63 @@
+body{
+    background-image: url(images/skyscraper.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+}
+
+button{
+    width: 380px;
+    height: 40px;
+    color: white;
+    background-color: rgb(33, 157, 239);
+    font-size: 18px;
+    border-radius: 2px;
+    border: 0px;
+}
+
+.loginbutton{
+    padding-left: 9px;
+}
+
+.maindiv{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.644);
+    width: 400px;
+    margin:150px auto 0px;
+    padding: 50px;
+    border-radius: 10px;
+    padding-top: 20px;
+}
+
+.email{
+    padding-bottom: 15px;
+    padding-left: 9px;
+}
+
+.password{
+    padding-bottom: 15px;
+    padding-left: 9px;
+}
+
+.agree{
+    padding-bottom: 15px;
+    padding-left: 9px;
+}
+
+.positiondiv{
+    margin-top: 150px;
+}
+
+.heading{
+    text-align: center;
+    font-family: sans-serif;
+    padding-bottom: 20px;
+}
+
+.info{
+    width: 380px;   
+    height: 30px;
+    border-radius: 2px;
+    border: 0px;
+    font-size: 15px;
+}
